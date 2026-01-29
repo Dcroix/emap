@@ -1,5 +1,8 @@
-# eMAP - Repository for developed Interactive Maps and Dashboards
+# eMAP - Repository for developed Interactive Maps, Dashboards, and Animated 
 
 ### 🏥  Map for COVID-19 Hotlines 2020
 An interactive map visualization of Region VI (Western Visayas - which then included Panay, Guimaras, and Negros Occidental), Philippines, showing COVID-19 hotline contact numbers from 2020. The map displays locations of hospitals and Local Government Units (LGUs) using distinct icons, with contact details revealed on hover for easy access to emergency information. It aimed to inform the public about available COVID-19 hotlines for reporting cases and seeking assistance. This has been created through the pooled efforts of member instutions of the Western Visayas Health Research and Development Consortium, Department of Health VI, and Department of Science and Technology VI. Feel free to check the map [here](https://dcroix.github.io/emap/COVID_Hotlines_Map_Final.html) *(right-click → Open in new tab)*.
+
+### 📈 Animated Data Visualizations
+An animated data visualization presenting socioeconomic datasets related to Philippines. The project visualizes Gross Regional Domestic Product (GRDP) by sector from 2007–2017 using a line graph, Overseas Filipino Workers (OFWs) grouped by country of deployment (2013–2017) through a bar graph, and OFWs grouped by occupation (2013–2017) using a column graph. The visualizations emphasize trends over time and demonstrate skills in animated data-driven storytelling. Feel free to check the map [here](https://dcroix.github.io/emap/Data_Visualization_-_Interactive_Graphs.html) *(right-click → Open in new tab)*.
 
